@@ -9,7 +9,7 @@
 
 My progress on https://roadmap.sh so far
 
-[![roadmap.sh](https://roadmap.sh/card/tall/64708220a4a21941a6c02453?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/64708220a4a21941a6c02453?variant=light)](https://roadmap.sh)
   
 
 <!--
