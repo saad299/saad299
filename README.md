@@ -1,6 +1,6 @@
 ## Hi there 👋
   ### **_About Me_**
-  👉 My name is Saad. I am from Karachi, Pakistan, a bachelor's student at the University of Karachi, studying space sciences. ⭐When it comes to space and astronomy, most people think that it is a very alien👽 thing to study or it is a tough field of study🤷‍♂️. 💡In reality, space study develops curiosity and hunger to find logical answers to things that seem difficult to understand.
+  👉 My name is Saad. I am from Karachi, Pakistan, a bachelor's student at the University of Karachi, studying space sciences. ⭐When it comes to space and astronomy, most people think that it is a very alien👽 thing to study or it is a tough field of study🤷‍♂️. 💡In reality, space study develops curiosity and hunger to find logical answers to things that seem difficult to understand, something that is greatly required in software engineering.
 
 
 
