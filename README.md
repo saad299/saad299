@@ -47,7 +47,7 @@ I’m currently focused on becoming a strong **MERN + Python** engineer with a l
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=saad299&show_icons=true&hide_border=true&theme=transparent" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad299&hide_border=true&theme=transparent" height="150" />
+  <img src="https://streak-stats.demolab.com?user=saad299&hide_border=true&theme=transparent" height="150" />
 </p>
 
 ---
