@@ -19,7 +19,7 @@ I’m currently focused on becoming a strong **MERN + Python** engineer with a l
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,typescript,wordpress,python" height="450" width="700" />
 </p>
 
 ---
@@ -46,19 +46,23 @@ I’m currently focused on becoming a strong **MERN + Python** engineer with a l
 ## 📈 GitHub Stats & Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=saad299&hide_border=true&theme=transparent&cache_seconds=1" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=saad299&hide_border=true&theme=transparent&cache_seconds=1" height="300" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=saad299&hide_border=true&theme=transparent&cache_seconds=1" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=saad299&hide_border=true&theme=transparent&cache_seconds=1" height="300" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=saad299&hide_border=true&theme=transparent&cache_seconds=1" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=saad299&hide_border=true&theme=transparent&cache_seconds=1" height="300" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=saad299&show_icons=true&hide_border=true&theme=transparent" height="2000" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=saad299&show_icons=true&hide_border=true&theme=transparent" height="300" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime/?Username=saad299&show_icons=true&hide_border=true&theme=transparent" height="300" width="500" />
 </p>
 
 ---
