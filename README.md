@@ -1,10 +1,18 @@
-# 👋 Hi, I'm Saad Ahmad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c9d9b,100:1e3c72&height=300&section=header&text=Hi%20I'm%20Saad%20👋&fontSize=40&fontAlignY=35"/>
+
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&&pause=1000&color=f54900&width=550&lines=Logic-first+developer;MERN+Stack+Developer;Problem+solving+is+my+superpower" />
+</p>
+
+<!-- # 👋 Hi, I'm Saad Ahmad -->
 
 A logic-first developer who enjoys breaking down ideas into clear workflows before writing a single line of code. I document, outline, and design system flows mentally or on paper — then build them with clean, structured logic.
 
 I’m currently focused on becoming a strong **MERN + Python** engineer with a long-term interest in **AI-assisted development** and **efficient problem-solving across languages**.
 
----
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=130&section=footer"/>
+</p>
 
 ## 🧠 What I Do
 
@@ -15,11 +23,19 @@ I’m currently focused on becoming a strong **MERN + Python** engineer with a l
 * Work on real-world MERN projects and data workflows
 
 ---
+<p align="center">
+   <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZ2eWY3amV4MGNiMHhmMjkyOHJ3b3gxZzhhbDh6NWhzeWxmazZpcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cXblnKXr2BQOaYnTni/giphy.gif" width="300"> -->
+   <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2xkcnBvZTl6bG5peXRjcmc3ZzdpYmczOWZ6Z3duOGxoMnUybW5vYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="380"> -->
+   <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGNlcDBmcWpzeXk5NGNlbW5ycjVjYmRrbzhjdG9tbXQ1cGsxc3psdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="340" height="600"> -->
+</p>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
+
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,typescript,wordpress,python" height="450" width="700" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,typescript,wordpress,python"  height="450" width="700" />
 </p>
 
 ---
@@ -51,6 +67,10 @@ I’m currently focused on becoming a strong **MERN + Python** engineer with a l
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=130&section=footer"/>
+</p>
 
 ## 📈 GitHub Stats & Overview
 
