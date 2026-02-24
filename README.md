@@ -43,6 +43,15 @@ I’m currently focused on becoming a strong **MERN + Python** engineer with a l
 
 ---
 
+## 📌 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=saad299&repo=100-days-of-code&show_icons=true&hide_border=true&theme=transparent" height="2000" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=saad299&repo=fifa2026guide&show_icons=true&hide_border=true&theme=transparent" height="2000" />
+</p>
+
+---
+
 ## 📈 GitHub Stats & Overview
 
 <p align="center">
@@ -62,7 +71,7 @@ I’m currently focused on becoming a strong **MERN + Python** engineer with a l
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime/?Username=saad299&show_icons=true&hide_border=true&theme=transparent" height="300" width="500" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime/?username=@saad299&show_icons=true&hide_border=true&theme=transparent" height="2000" />
 </p>
 
 ---
