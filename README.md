@@ -1,15 +1,61 @@
-## Hi there 👋
-  ### **_About Me_**
-  👉 My name is Saad. I am from Karachi, Pakistan, a bachelor's student at the University of Karachi, studying space sciences. ⭐When it comes to space and astronomy, most people think that it is a very alien👽 thing to study or it is a tough field of study🤷‍♂️. 💡In reality, space study develops curiosity and hunger to find logical answers to things that seem difficult to understand, something that is greatly required in software engineering.
+# 👋 Hi, I'm Saad Ahmad
 
+A logic-first developer who enjoys breaking down ideas into clear workflows before writing a single line of code. I document, outline, and design system flows mentally or on paper — then build them with clean, structured logic.
 
+I’m currently focused on becoming a strong **MERN + Python** engineer with a long-term interest in **AI-assisted development** and **efficient problem-solving across languages**.
 
+---
 
+## 🧠 What I Do
 
+* Turn concepts into structured flows before coding
+* Build clean, understandable logic in JavaScript & Python
+* Develop practical frontends with React + Tailwind
+* Explore backend fundamentals with Node & Express
+* Work on real-world MERN projects and data workflows
 
-My progress on https://roadmap.sh so far
+---
 
-[![roadmap.sh](https://roadmap.sh/card/tall/64708220a4a21941a6c02453?variant=dark&roadmaps=%2Cfull-stack%2Creact%2Cpython%2Cnodejs)](https://roadmap.sh)
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python" height="45" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+* MERN stack mastery
+* Clean backend architecture
+* Data workflows (Python, Pandas, NumPy)
+* Improving multi-language problem-solving
+* Learning + building consistently in public
+
+---
+
+## ⚡ How I Think & Work
+
+* **Logic over design** — I prioritize clear reasoning, structure, and flow.
+* **Outline-first mindset** — I define how every component, state, and function behaves before coding.
+* **Systemic problem-solver** — I enjoy figuring out how pieces connect into a working system.
+* **Documentation-driven** — I record processes, insights, and workflows to learn deeper and faster.
+
+---
+
+## 📈 GitHub Overview
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=saad299&show_icons=true&hide_border=true&theme=transparent" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad299&hide_border=true&theme=transparent" height="150" />
+</p>
+
+---
+
+## 📫 Connect
+
+If you love web development, Python, AI, or problem-solving, feel free to reach out.
+I enjoy learning with others and sharing the journey forward.
   
 
 <!--
