@@ -43,11 +43,22 @@ I’m currently focused on becoming a strong **MERN + Python** engineer with a l
 
 ---
 
-## 📈 GitHub Overview
+## 📈 GitHub Stats & Overview
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saad299&show_icons=true&hide_border=true&theme=transparent" height="150" />
-  <img src="https://streak-stats.demolab.com?user=saad299&hide_border=true&theme=transparent" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=saad299&hide_border=true&theme=transparent&cache_seconds=1" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=saad299&hide_border=true&theme=transparent&cache_seconds=1" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=saad299&hide_border=true&theme=transparent&cache_seconds=1" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=saad299&show_icons=true&hide_border=true&theme=transparent" height="2000" />
 </p>
 
 ---
