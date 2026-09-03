@@ -63,7 +63,7 @@ I’m currently focused on becoming a strong **MERN + Python** engineer with a l
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=saad299&repo=100-days-of-code&show_icons=true&hide_border=true&theme=transparent" height="2000" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=saad299&repo=fifa2026guide&show_icons=true&hide_border=true&theme=transparent" height="2000" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=saad299&repo=expense_trackerguide&show_icons=true&hide_border=true&theme=transparent" height="2000" />
    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=saad299&repo=faaahh-extension&show_icons=true&hide_border=true&theme=transparent" height="2000" />
 </p>
 
